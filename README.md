@@ -13,7 +13,6 @@ I'm 13, an iOS Developer & Podcaster. 📫 Contact me with [Twitter](https://twi
 
 - 🌏 [Knil](https://github.com/ethanhuang13/knil) - Universal Links testing made easy ([Download](https://itunes.apple.com/us/app/knil-universal-link-testing/id1195310358?l=zh&ls=1&mt=8&ct=13h.tw))
 - 🌏 [Ladybug](https://github.com/ethanhuang13/ladybug) - Opens Radar Links ([Download](https://itunes.apple.com/us/app/ladybug-handles-radar-links/id1402968134?l=zh&ls=1&mt=8&ct=13h.tw))
-- 🌏 [NoteBox](https://twitter.com/getnotebox) ([Download](http://geni.us/notebox))
 - 🇹🇼 [Blahker 巴拉剋](https://github.com/ethanhuang13/blahker) - Safari 蓋版廣告消除器 ([Download](http://bit.ly/blahker))
 
 ## Projects I Created for iOS Developers (in Taiwan)
