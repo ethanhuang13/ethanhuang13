@@ -2,7 +2,9 @@
 
 I'm 13, an iOS Developer & Podcaster. 
 
-📫 Contact me with [Twitter](https://twitter.com/@ethanhuang13) or [email](mailto:eh13@hey.com). ![README Stats](https://github-readme-stats.vercel.app/api?username=ethanhuang13&show_icons=true&hide_title=true&count_private=true)
+📫 Contact me with [Twitter](https://twitter.com/@ethanhuang13) or [email](mailto:eh13@hey.com). 
+
+![README Stats](https://github-readme-stats.vercel.app/api?username=ethanhuang13&show_icons=true&hide_title=true&count_private=true)
 
 ## Open Source Projects
 
