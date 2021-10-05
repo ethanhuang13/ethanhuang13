@@ -26,8 +26,6 @@ I'm 13, an iOS Developer & Podcaster.
 
 # 🙏 Donation
 
-最近更新：2021/10/02
-
 這些是我在經營的各種 Apple/iOS 開發者資源。如果有幫助到你的話，請考慮捐款支持我，謝謝！
 
 - 📰[13 的 Apple 開發者週報](https://ethanhuang13.substack.com/)
@@ -63,3 +61,5 @@ TAb8mqBs6xdYjoek7zunCmXmBwutZoTLH1
 ## 其他 
 
 **[weak self podcast](https://weakself.dev)** 的聽眾朋友，可以指定捐款給節目（而不是我本人）。請見 [GitHub](https://github.com/weakselfpodcast/weakselfpodcast.github.io/blob/master/README.md)。
+
+最近更新：2021/10/05
