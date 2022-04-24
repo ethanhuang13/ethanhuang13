@@ -30,11 +30,9 @@ I'm 13, an iOS Developer & Podcaster.
 
 - 📰[13 的 Apple 開發者週報](https://ethanhuang13.substack.com/)
 - 🎙[weak self podcast](https://weakself.dev/)
-- 🏠[weak self club](https://www.joinclubhouse.com/club/weak-self-podcast)
 - 🐦[Twitter 帳號](https://twitter.com/ethanhuang13)
 - 😔[Twitter 帳號 iOS 開發者職業傷害大全](https://twitter.com/1star_therapist)
 - 🇹🇼[Twitter 列表 iOS Developers TW](https://twitter.com/ethanhuang13/lists/ios-developers-tw)
-- ✈️[Telegram 頻道](https://t.me/ethanhuang13_iOS)
 - 📙[13 的開發者筆記（Notion）](https://www.notion.so/ethanhuang13/5468d0f06078406eb6602fecda2d3f42?v=b6bdfeec54014e8181c6801347df15e4)
 - 🖊[13's Blog](https://13h.tw)
 - ✏️[13's Medium](https://medium.com/@ethanhuang13)
