@@ -37,12 +37,12 @@ I'm 13, an iOS Developer & Podcaster.
 - 🖊[13's Blog](https://13h.tw)
 - ✏️[13's Medium](https://medium.com/@ethanhuang13)
 
-### Buy Me A Coffee（單次扣款，支援 Apple Pay）
-- [Buy Me A Coffee](https://www.buymeacoffee.com/ethanhuang13)
+### Buy Me A Coffee（單次或每月扣款）
+- [Buy Me A Coffee](https://www.buymeacoffee.com/ethanhuang13) 支援 Apple Pay，最低 $5 美金（扣掉平台處理費，實際上收到大概會打八折）
 
 ### Patreon（訂閱制、每月扣款）
 
-- [Patreon](https://www.patreon.com/ethanhuang13) 支援信用卡與 PayPal，每月 $5 美金。（扣掉平台處理費，實際上收到大概會八折）
+- [Patreon](https://www.patreon.com/ethanhuang13) 支援信用卡與 PayPal，每月 $5 美金。（扣掉平台處理費，實際上收到大概會打八折）
 - 由於 Patreon 機制為月初扣款，建議不要在月底開始訂閱
 - 只想單次捐款的話，也可以訂閱後立刻取消
 
