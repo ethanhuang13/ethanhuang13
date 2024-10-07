@@ -1,16 +1,12 @@
-### Hey! 👋
+### Hello! 👋
 
 I'm 13, an iOS Developer & Podcaster. 
 
-🐘 [Mastodon](https://mastodon.social/@ethanhuang13), 
 🐦 [Twitter](https://twitter.com/@ethanhuang13)
- or 📫[email](mailto:eh13@hey.com)
-
-![README Stats](https://github-readme-stats.vercel.app/api?username=ethanhuang13&show_icons=true&hide_title=true&count_private=true)
 
 ## Open Source Projects
 
-### Swift Library
+### Swift Libraries
 
 - [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing `NSAttributedString` with SwiftUI-style syntax
 
@@ -20,43 +16,23 @@ I'm 13, an iOS Developer & Podcaster.
 - 🌏 [Ladybug](https://github.com/ethanhuang13/ladybug) - Opens Radar Links ([Download](https://itunes.apple.com/us/app/ladybug-handles-radar-links/id1402968134?l=zh&ls=1&mt=8&ct=13h.tw))
 - 🇹🇼 [Blahker 巴拉剋](https://github.com/ethanhuang13/blahker) - Safari 蓋版廣告消除器 ([Download](http://bit.ly/blahker))
 
-## Projects I Created for iOS Developers (in Taiwan)
+## Resources I Created for iOS Developers (Mainly in Taiwan)
 
-- 🇹🇼 [13 的 Apple 開發者週報](https://ethanhuang13.substack.com) - 每週彙集 iOS 與 Apple 開發新知，減輕你的資訊焦慮。
-- 🇹🇼 [weak self podcast](https://weakself.dev) - 集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast
+這些都是我製作的 Apple/iOS 開發者資源。
 
-# 🙏 Donation
+### 收費
 
-這些是我在經營的各種 Apple/iOS 開發者資源。如果有幫助到你的話，請考慮捐款支持我，謝謝！
+- 💪歡迎加入我的 iOS Developer+ 會員（[Patreon](https://www.patreon.com/ethanhuang13)）
 
-- 📰[13 的 Apple 開發者週報](https://ethanhuang13.substack.com/)
-- 🎙[weak self podcast](https://weakself.dev/)
-- 🐦[Twitter 帳號](https://twitter.com/ethanhuang13)
+### 免費
+
+- 📰[13 報 | Apple 開發者電子報](https://ethanhuang13.substack.com) - 應該是全台灣最多人訂閱的 iOS 開發電子報
+- 🎙[weak self podcast](https://weakself.dev) - 集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast
+- 📺[YouTube](https://www.youtube.com/watch?v=MLTpk7iukoc&list=PL_ISTqHGWkNyN2qbc5wVDRyE6baEQ-BqU) - iOS 開發配飯吃
 - 😔[Twitter 帳號 iOS 開發者職業傷害大全](https://twitter.com/1star_therapist)
 - 🇹🇼[Twitter 列表 iOS Developers TW](https://twitter.com/ethanhuang13/lists/ios-developers-tw)
 - 📙[13 的開發者筆記（Notion）](https://www.notion.so/ethanhuang13/5468d0f06078406eb6602fecda2d3f42?v=b6bdfeec54014e8181c6801347df15e4)
 - 🖊[13's Blog](https://13h.tw)
 - ✏️[13's Medium](https://medium.com/@ethanhuang13)
 
-### Patreon（訂閱制、每月扣款）
-
-- [Patreon](https://www.patreon.com/ethanhuang13) 支援信用卡與 PayPal，每月 $5 美金。（扣掉平台處理費，實際上收到大概會打八折）
-- 由於 Patreon 機制為月初扣款，建議不要在月底開始訂閱
-- 只想單次捐款的話，也可以訂閱後立刻取消
-
-### 加密貨幣（匿名捐款）
-
-熟悉加密貨幣的朋友可以直接發送到下列地址。如果沒有特別跟我說的話，就是匿名捐款。
-
-$USDT(TRC-20)
-```
-TAb8mqBs6xdYjoek7zunCmXmBwutZoTLH1
-```
-
----
-
-## 其他 
-
-**[weak self podcast](https://weakself.dev)** 的聽眾朋友，可以指定捐款給節目（而不是我本人）。請見 [GitHub](https://github.com/weakselfpodcast/weakselfpodcast.github.io/blob/master/README.md)。
-
-最後一次更新：2023-07-02
+最後一次更新：2024-10-07
